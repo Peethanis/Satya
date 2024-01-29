@@ -1,0 +1,33 @@
+ body {
+            margin: 0;
+            overflow: hidden;
+        }
+        video {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            z-index: -1;
+            }
+            @font-face {
+  font-family: 'love';
+  font-style: normal; 
+  font-weight: 50; 
+  src: url('dhurjati.ttf') ;
+}
+#heading {
+  font-size: 3em;
+  text-align: center;
+   margin-top: 30%;
+   font-family: 'love';
+   background-image: url('https://i.pinimg.com/originals/11/0f/2b/110f2bbc1027482ffe89b353d49b958e.gif');
+   background-clip: text;
+   background-size: cover;
+   background-position: center;
+   color: transparent;
+   -webkit-background-clip: text;
+}
