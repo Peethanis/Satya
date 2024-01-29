@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="te">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>పీతానీ వారి పాలెం</title>
+    <link rel="stylesheet" href="peethanis.css">
+    <style>
+       
+    </style>
+</head>
+<body>
+    <video autoplay loop muted>
+        <source src="https://assets.mixkit.co/videos/preview/mixkit-lens-flares-from-the-sun-through-the-out-of-focus-trees-34372-large.mp4" type="video/mp4"> <!-- Replace with your background video file -->
+        Your browser does not support the video tag.
+    </video>
+    <h1 id="heading">పీతానీ వారి పాలెం</h1>
+
+    <!-- Navigation Links to other pages -->
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#tools">Tools</a></li>
+            <li><a href="#roles">Roles</a></li>
+            <li><a href="#other">Other Pages</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <section id="home">
+        <!-- Your main content goes here -->
+    </section>
+
+    <!-- Additional Sections -->
+    <section id="tools">
+        <!-- Tools content goes here -->
+    </section>
+
+    <section id="roles">
+        <!-- Roles content goes here -->
+    </section>
+
+    <section id="other">
+        <!-- Other Pages content goes here -->
+    </section>
+</body>
+</html>
